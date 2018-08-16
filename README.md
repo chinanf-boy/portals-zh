@@ -7,11 +7,17 @@
 
 「 关于在站点或页面之间启用无缝导航的提议 」
 
+<!-- doc-templite START generated -->
+<!-- time = '2018 6.29' -->
+
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 6.29 | ![last] | [中文翻译][more]
+<!-- doc-templite END generated -->
+
+[last]: https://img.shields.io/github/last-commit/KenjiBaheux/portals.svg
 [commit]: https://github.com/KenjiBaheux/portals/tree/44356d1398180968b37d8d6c770fbee6702fe06a
-
-欢迎 `Issue` 和 `Pull` ❤️, 最好 `Pull` 👏
-
-[更多其他中文翻译](https://github.com/chinanf-boy/chinese-translate-list)
+[more]: https://github.com/chinanf-boy/chinese-translate-list
 
 ---
 
